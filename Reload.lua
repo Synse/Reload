@@ -1,3 +1,7 @@
+-- globals for bindings
+_G.BINDING_HEADER_RELOAD = "Reload";
+_G.BINDING_NAME_RELOAD_RELOADUI = "Reload UI";
+
 -- slash commands
 SlashCmdList["RELOAD_RELOADUI"] = function()
     Reload_ReloadUI();
