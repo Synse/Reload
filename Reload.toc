@@ -1,6 +1,6 @@
-## Interface: 80100
+## Interface: 80205
 ## Title: Reload
 ## Notes: Slash commands for reloading your ui
 ## Author: Synse
-## Version: 1.1.1
+## Version: 1.1.2
 Reload.lua
