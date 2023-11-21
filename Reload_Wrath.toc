@@ -1,0 +1,6 @@
+## Interface: 30403
+## Title: Reload
+## Notes: Slash commands for reloading your ui
+## Author: Synse
+## Version: 1.1.3
+Reload.lua
