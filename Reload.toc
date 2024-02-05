@@ -2,5 +2,5 @@
 ## Title: Reload
 ## Notes: Slash commands for reloading your ui
 ## Author: Synse
-## Version: 1.1.4
+## Version: 1.1.5
 Reload.lua
