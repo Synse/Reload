@@ -1,4 +1,4 @@
-## Interface: 11504
+## Interface: 11505
 ## Title: Reload
 ## Notes: Slash commands for reloading your ui
 ## Author: Synse
