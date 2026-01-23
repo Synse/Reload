@@ -1,6 +1,6 @@
 ## Interface: 50503
 ## Title: Reload
-## Notes: Slash commands for reloading your ui
+## Notes: Slash commands and keybind for reloading your ui
 ## Author: Synse
 ## Version: 1.1.9
 Reload.lua
