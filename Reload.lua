@@ -1,5 +1,5 @@
 -- globals for bindings
-_G.BINDING_NAME_RELOAD_RELOADUI = "Reload UI";
+_G.BINDING_NAME_RELOAD_RELOADUI = "|cffff8822[Reload]|r Reload UI";
 
 -- slash commands
 SlashCmdList["RELOAD_RELOADUI"] = function()
