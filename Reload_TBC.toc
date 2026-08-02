@@ -1,4 +1,4 @@
-## Interface: 20505
+## Interface: 20506
 ## Title: Reload
 ## Notes: Slash commands and keybind for reloading your ui
 ## Author: Synse
