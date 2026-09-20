@@ -1,4 +1,4 @@
-## Interface: 120100, 20506, 11509
+## Interface: 120100, 50504, 20506, 11509
 ## Title: Reload
 ## Notes: Slash commands and keybind for reloading your ui
 ## Author: Synse
