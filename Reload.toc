@@ -2,7 +2,7 @@
 ## Title: Reload
 ## Notes: Slash commands and keybind for reloading your ui
 ## Author: Synse
-## Version: 1.2.2
+## Version: 1.3.0
 ## Category: Development Tools
 ## Category-deDE: Entwicklungstools
 ## Category-esES: Herramientas de Desarrollo
